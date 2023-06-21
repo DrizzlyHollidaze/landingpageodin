@@ -1,0 +1,1 @@
+Odin project landing page project. Showcasing what I have learened so far from the project with HTML and CSS.
