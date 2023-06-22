@@ -88,6 +88,10 @@ body {
     border-style:none;
     padding:5px;
 }
+button.learnmore:active {
+    background-color:#E5E7EB;
+    color:#3882F6;
+}
 .info {
     display:flex;
     min-width:100%;
@@ -119,12 +123,10 @@ body {
     flex-shrink: 0;
     max-width:300px;
     align-items:center;
-    margin 2px;
+    margin: 2px;
 }
 .carimg {
     max-height:150px;
-    max-width:300px;
-    max-height:300px
 }
 .qoute {
     background-color:#E5E7EB;
@@ -187,6 +189,10 @@ body {
     border-style:solid;
     border-width:2px;
 }
+.signup:active {
+    background-color:#E5E7EB;
+    color:#3882F6;
+}
 .texttime {
     padding:0;
     margin-right:auto;
@@ -205,6 +211,16 @@ body {
 p.footer {
     margin-top:20px;
     margin-bottom:20px;
+}
+.actiontime {
+    font-size: 32px;
+    font-weight:bold;
+    margin:0;
+}
+.learnmorep {
+    font-size: 16px;
+    margin:0;
+
 }
 a {
     margin-left:20px;
