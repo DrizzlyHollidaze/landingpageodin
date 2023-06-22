@@ -125,6 +125,9 @@ button.learnmore:active {
     align-items:center;
     margin: 2px;
 }
+.contentholder2 > p {
+    text-align:center;
+}
 .carimg {
     max-height:150px;
 }
